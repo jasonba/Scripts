@@ -1,4 +1,0 @@
-Scripts
-=======
-
-Various scripts
